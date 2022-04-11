@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A frontend developer with knowledge in backend from Argentina</h3>
+<h3 align="center">A Full Stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoalanis14&label=Profile%20views&color=0e75b6&style=flat" alt="nicoalanis14" /> </p>
 
@@ -46,5 +46,5 @@
 </li>
 </ul>
 </p>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nicoalanis14&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoalanis14&langs_count=5&theme=tokyonight)]()
+<img src="https://github-readme-stats.vercel.app/api/?username=nicoalanis14&count_private=true&theme=tokyonight&showicons=true" alt="My stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoalanis14&langs_count=5&theme=tokyonight" alt="My stats"/>
