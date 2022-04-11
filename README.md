@@ -46,6 +46,5 @@
 </li>
 </ul>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoalanis14&show_icons=true&locale=en&layout=compact" alt="nicoalanis14" /></p>
-<p></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoalanis14&show_icons=true&locale=en" alt="nicoalanis14" /></p>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nicoalanis14&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoalanis&langs_count=5&theme=tokyonight)]()
