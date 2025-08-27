@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicoalanis14&label=Profile%20views&color=0e75b6&style=flat" alt="nicoalanis14" /> </p>
 
-- 🌱 I’m currently learning **React and Chakra UI**
+- 🌱 I am currently learning **React and Chakra UI**
 
 - 👨‍💻 All of my projects are available at [https://alanis-nicolas.vercel.app/](https://alanis-nicolas.vercel.app/)
 
